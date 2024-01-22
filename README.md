@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @muthanii
-- 👀 I’m interested in Python data science and ML
-- 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on simple data science
+- 💻 I have been using Python for almost 3 years
+- 👀 I’m interested in Cloud Computing, Python and ML
+- 🌱 I’m currently learning Google Cloud's ML career path
 - 📫 How to reach me muthanalsaadi@gmail.com
 
 <!---
