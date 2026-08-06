@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @muthanii
-- 💻 I have been using Python for almost 3 years
-- 👀 I’m interested in Cloud Computing, Python and ML
-- 🌱 I’m currently learning Google Cloud's ML career path
+- 💻 I have been using Python for almost 5+ years
+- 👀 I’m interested in Agentic Coding and Automation.
+- 🏢 I'm working as a SWE at Teebat Karbala (Karbala International Airport Project)
+- 🌱 I’m currently taking a Masters degree in AI and Automation.
 - 📫 How to reach me muthanalsaadi@gmail.com
 
 <!---
