@@ -364,9 +364,9 @@ Msc Student @ Nahrain University</text>
           <rect x="236" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
         
           <rect x="258" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="265" y="126" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#000080">4</text>
         
           <rect x="280" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="287" y="126" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#000080">4</text>
         
           <rect x="302" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
         
@@ -385,19 +385,19 @@ Msc Student @ Nahrain University</text>
           <rect x="434" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
         
           <rect x="456" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="463" y="126" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
         
           <rect x="478" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="485" y="126" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
+          <text x="485" y="126" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
         
           <rect x="500" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="507" y="126" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
         
           <rect x="522" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
         
           <rect x="544" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="551" y="126" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
         
           <rect x="566" y="110" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="573" y="126" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
         
           <rect x="192" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
           <text x="199" y="148" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
@@ -405,13 +405,13 @@ Msc Student @ Nahrain University</text>
           <rect x="214" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
         
           <rect x="236" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <line x1="236" y1="132" x2="256" y2="132" stroke="#ffffff" stroke-width="2" />
+          <line x1="236" y1="132" x2="236" y2="152" stroke="#ffffff" stroke-width="2" />
+          <polygon points="242,136 250,140 242,144" fill="#ff0000" />
+          <line x1="242" y1="136" x2="242" y2="149" stroke="#000000" stroke-width="1.5" />
+          <rect x="240" y="147" width="8" height="2" fill="#000000" />
         
           <rect x="258" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <line x1="258" y1="132" x2="278" y2="132" stroke="#ffffff" stroke-width="2" />
-          <line x1="258" y1="132" x2="258" y2="152" stroke="#ffffff" stroke-width="2" />
-          <polygon points="264,136 272,140 264,144" fill="#ff0000" />
-          <line x1="264" y1="136" x2="264" y2="149" stroke="#000000" stroke-width="1.5" />
-          <rect x="262" y="147" width="8" height="2" fill="#000000" />
         
           <rect x="280" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
         
@@ -443,6 +443,11 @@ Msc Student @ Nahrain University</text>
           <rect x="500" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
         
           <rect x="522" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <line x1="522" y1="132" x2="542" y2="132" stroke="#ffffff" stroke-width="2" />
+          <line x1="522" y1="132" x2="522" y2="152" stroke="#ffffff" stroke-width="2" />
+          <polygon points="528,136 536,140 528,144" fill="#ff0000" />
+          <line x1="528" y1="136" x2="528" y2="149" stroke="#000000" stroke-width="1.5" />
+          <rect x="526" y="147" width="8" height="2" fill="#000000" />
         
           <rect x="544" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
           <line x1="544" y1="132" x2="564" y2="132" stroke="#ffffff" stroke-width="2" />
@@ -452,20 +457,16 @@ Msc Student @ Nahrain University</text>
           <rect x="548" y="147" width="8" height="2" fill="#000000" />
         
           <rect x="566" y="132" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <line x1="566" y1="132" x2="586" y2="132" stroke="#ffffff" stroke-width="2" />
-          <line x1="566" y1="132" x2="566" y2="152" stroke="#ffffff" stroke-width="2" />
-          <polygon points="572,136 580,140 572,144" fill="#ff0000" />
-          <line x1="572" y1="136" x2="572" y2="149" stroke="#000000" stroke-width="1.5" />
-          <rect x="570" y="147" width="8" height="2" fill="#000000" />
+          <text x="573" y="148" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
         
           <rect x="192" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
         
           <rect x="214" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
         
           <rect x="236" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="243" y="170" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
         
           <rect x="258" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="265" y="170" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
         
           <rect x="280" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
           <text x="287" y="170" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
@@ -484,46 +485,41 @@ Msc Student @ Nahrain University</text>
           <rect x="412" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
         
           <rect x="434" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <line x1="434" y1="154" x2="454" y2="154" stroke="#ffffff" stroke-width="2" />
-          <line x1="434" y1="154" x2="434" y2="174" stroke="#ffffff" stroke-width="2" />
-          <polygon points="440,158 448,162 440,166" fill="#ff0000" />
-          <line x1="440" y1="158" x2="440" y2="171" stroke="#000000" stroke-width="1.5" />
-          <rect x="438" y="169" width="8" height="2" fill="#000000" />
+          <text x="441" y="170" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#ff0000">3</text>
         
           <rect x="456" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="463" y="170" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#ff0000">3</text>
         
           <rect x="478" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <line x1="478" y1="154" x2="498" y2="154" stroke="#ffffff" stroke-width="2" />
+          <line x1="478" y1="154" x2="478" y2="174" stroke="#ffffff" stroke-width="2" />
+          <polygon points="484,158 492,162 484,166" fill="#ff0000" />
+          <line x1="484" y1="158" x2="484" y2="171" stroke="#000000" stroke-width="1.5" />
+          <rect x="482" y="169" width="8" height="2" fill="#000000" />
         
           <rect x="500" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <line x1="500" y1="154" x2="520" y2="154" stroke="#ffffff" stroke-width="2" />
-          <line x1="500" y1="154" x2="500" y2="174" stroke="#ffffff" stroke-width="2" />
-          <polygon points="506,158 514,162 506,166" fill="#ff0000" />
-          <line x1="506" y1="158" x2="506" y2="171" stroke="#000000" stroke-width="1.5" />
-          <rect x="504" y="169" width="8" height="2" fill="#000000" />
+          <text x="507" y="170" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#000080">4</text>
         
           <rect x="522" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="529" y="170" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#000080">4</text>
         
           <rect x="544" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="551" y="170" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
+          <text x="551" y="170" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#000080">4</text>
         
           <rect x="566" y="154" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="573" y="170" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#000080">4</text>
         
           <rect x="192" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
         
           <rect x="214" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="221" y="192" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
         
           <rect x="236" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="243" y="192" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
+          <line x1="236" y1="176" x2="256" y2="176" stroke="#ffffff" stroke-width="2" />
+          <line x1="236" y1="176" x2="236" y2="196" stroke="#ffffff" stroke-width="2" />
+          <polygon points="242,180 250,184 242,188" fill="#ff0000" />
+          <line x1="242" y1="180" x2="242" y2="193" stroke="#000000" stroke-width="1.5" />
+          <rect x="240" y="191" width="8" height="2" fill="#000000" />
         
           <rect x="258" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <line x1="258" y1="176" x2="278" y2="176" stroke="#ffffff" stroke-width="2" />
-          <line x1="258" y1="176" x2="258" y2="196" stroke="#ffffff" stroke-width="2" />
-          <polygon points="264,180 272,184 264,188" fill="#ff0000" />
-          <line x1="264" y1="180" x2="264" y2="193" stroke="#000000" stroke-width="1.5" />
-          <rect x="262" y="191" width="8" height="2" fill="#000000" />
+          <text x="265" y="192" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
         
           <rect x="280" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
           <text x="287" y="192" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
@@ -550,17 +546,18 @@ Msc Student @ Nahrain University</text>
           <rect x="456" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
         
           <rect x="478" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="485" y="192" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
         
           <rect x="500" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="507" y="192" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
+          <text x="507" y="192" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
         
           <rect x="522" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
           <text x="529" y="192" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
         
           <rect x="544" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="551" y="192" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#ff0000">3</text>
         
           <rect x="566" y="176" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="573" y="192" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#ff0000">3</text>
         
           <rect x="192" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
         
@@ -570,15 +567,14 @@ Msc Student @ Nahrain University</text>
           <text x="243" y="214" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
         
           <rect x="258" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="265" y="214" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
+          <text x="265" y="214" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#ff0000">3</text>
         
           <rect x="280" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="287" y="214" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#ff0000">3</text>
         
           <rect x="302" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="309" y="214" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
         
           <rect x="324" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="331" y="214" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
         
           <rect x="346" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
         
@@ -600,13 +596,12 @@ Msc Student @ Nahrain University</text>
           <rect x="478" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
         
           <rect x="500" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="507" y="214" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
+          <text x="507" y="214" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
         
           <rect x="522" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
           <text x="529" y="214" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
         
           <rect x="544" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="551" y="214" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
         
           <rect x="566" y="198" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
         
@@ -644,19 +639,18 @@ Msc Student @ Nahrain University</text>
           <rect x="456" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
         
           <rect x="478" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="485" y="236" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#0000ff">1</text>
+          <line x1="478" y1="220" x2="498" y2="220" stroke="#ffffff" stroke-width="2" />
+          <line x1="478" y1="220" x2="478" y2="240" stroke="#ffffff" stroke-width="2" />
+          <polygon points="484,224 492,228 484,232" fill="#ff0000" />
+          <line x1="484" y1="224" x2="484" y2="237" stroke="#000000" stroke-width="1.5" />
+          <rect x="482" y="235" width="8" height="2" fill="#000000" />
         
           <rect x="500" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <line x1="500" y1="220" x2="520" y2="220" stroke="#ffffff" stroke-width="2" />
-          <line x1="500" y1="220" x2="500" y2="240" stroke="#ffffff" stroke-width="2" />
-          <polygon points="506,224 514,228 506,232" fill="#ff0000" />
-          <line x1="506" y1="224" x2="506" y2="237" stroke="#000000" stroke-width="1.5" />
-          <rect x="504" y="235" width="8" height="2" fill="#000000" />
         
           <rect x="522" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
+          <text x="529" y="236" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
         
           <rect x="544" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
-          <text x="551" y="236" font-family="'Lucida Console', Monaco, monospace" font-size="14" font-weight="900" fill="#008000">2</text>
         
           <rect x="566" y="220" width="21" height="21" fill="#c0c0c0" stroke="#808080" />
         
